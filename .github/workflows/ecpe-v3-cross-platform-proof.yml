@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  ECPE_TARGET_SHA: 3e66fdb3b9768ebe290fb4fb0bce5b026d9a1fb9
+  ECPE_TARGET_SHA: da1c2a2281701dc980d980067e1b61f381d29361
 
 jobs:
   linux-free-suite:
